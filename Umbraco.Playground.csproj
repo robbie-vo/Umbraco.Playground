@@ -11,6 +11,7 @@
     <PackageReference Include="MediaInventory.Report.Umbraco" />
     <PackageReference Include="Umbraco.Cms" />
     <PackageReference Include="Umbraco.Cms.DevelopmentMode.Backoffice" />
+    <PackageReference Include="Umbraco.Community.LinkAudit" />
     <PackageReference Include="Umbraco.TheStarterKit" />
   </ItemGroup>
 
