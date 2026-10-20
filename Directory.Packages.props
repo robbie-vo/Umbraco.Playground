@@ -11,6 +11,7 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageVersion Include="DynamicDave.Umbraco.ContentHealth" Version="18.0.2" />
+    <PackageVersion Include="MediaInventory.Report.Umbraco" Version="1.1.3" />
     <PackageVersion Include="Umbraco.Cms" Version="17.7.1" />
     <PackageVersion Include="Umbraco.Cms.DevelopmentMode.Backoffice" Version="17.7.1" />
     <PackageVersion Include="Microsoft.ICU.ICU4C.Runtime" Version="$(UmbracoAppLocalIcuVersion)" />
