@@ -10,6 +10,7 @@
     <UmbracoAppLocalIcuVersion Condition="'$(UmbracoAppLocalIcuVersion)' == ''">72.1.0.3</UmbracoAppLocalIcuVersion>
   </PropertyGroup>
   <ItemGroup>
+    <PackageVersion Include="DynamicDave.Umbraco.ContentHealth" Version="18.0.2" />
     <PackageVersion Include="Umbraco.Cms" Version="17.7.1" />
     <PackageVersion Include="Umbraco.Cms.DevelopmentMode.Backoffice" Version="17.7.1" />
     <PackageVersion Include="Microsoft.ICU.ICU4C.Runtime" Version="$(UmbracoAppLocalIcuVersion)" />
